@@ -127,7 +127,4 @@ An Android application that helps users find events happening around them and pr
 - Download and unzip `FindMyEventWebservices.zip`
 - Open and run the service in **IntelliJ**
 
----
-
-## 📁 Repository Structure
 

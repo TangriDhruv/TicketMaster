@@ -43,11 +43,6 @@ An Android application that helps users find events happening around them and pr
 - Toggle between search types
 - Navigate to and from detail view seamlessly
 
-### 📷 Demo Screens (Add screenshots in GitHub later)
-- Search by **All Events**
-- Search by **Category**
-- Search by **Country Code**
-
 ---
 
 ## 🌍 2. Web Service
